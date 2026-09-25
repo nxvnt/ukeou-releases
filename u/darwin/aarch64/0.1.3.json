@@ -1,0 +1,11 @@
+{
+  "version": "0.1.3",
+  "notes": "",
+  "pub_date": "2026-09-25T14:05:07Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIG1pbmlzaWduIHNlY3JldCBrZXkKUlVRT0JLanRpbnk2N011OUt6bURUWnVicVVvNlVFZFNJUHBobFFpUTBDTWxmU1FqZUd3L3dyNGJpY0crYnRpdUFOMElvMkxoL2JpWEhac1ZqcVBJK0JVMklMTGIzNEJVY0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzQ1MDIxCWZpbGU6VWtlb3UuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4zCXNlY3VyaXR5X2Zsb29yOjAuMC4wCmI3MFVlWi9EdkFjbXFPRmtuTXQ4cytFYUxsQ1JpZnRqbkZtZVg0a0JZaDlFRlN2Nlk3aWdrQy9FWnk5R0R4TmhmdzVhMC9KbUhoMFlNcFVDZnVRaUJnPT0K",
+      "url": "https://ukeou-updates-staging-139713842700-eu-central-1-an.s3.eu-central-1.amazonaws.com/r/0.1.3/darwin-aarch64/Ukeou.app.tar.gz"
+    }
+  }
+}
